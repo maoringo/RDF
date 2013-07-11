@@ -1,5 +1,1 @@
-```bash
-####bashの場合
-$ cd my_directory
-$ vi README.md
-```
+This page is for RDF and its query language, SPARQL.
